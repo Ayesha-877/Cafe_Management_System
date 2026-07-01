@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Cafe_Management_system\bin\Debug\Cafe_Management_system.exe.config
+C:\Users\hp\source\repos\Cafe_Management_system\bin\Debug\Cafe_Management_system.exe
+C:\Users\hp\source\repos\Cafe_Management_system\bin\Debug\Cafe_Management_system.pdb
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.Form1.resources
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.Properties.Resources.resources
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.exe
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.pdb
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.GuestOrder.resources
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.UserOrder.resources
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.ItemForm.resources
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.Userform.resources
+C:\Users\hp\source\repos\Cafe_Management_system\obj\Debug\Cafe_Management_system.ViewOrder.resources

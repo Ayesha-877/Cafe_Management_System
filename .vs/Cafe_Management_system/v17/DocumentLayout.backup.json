@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cafe_Management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\userorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:userorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|d:\\cafe_management_system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\guestorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:guestorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\Userform.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:Userform.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\GuestOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:GuestOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\ViewOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:ViewOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\UserOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:UserOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\Userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:Userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|D:\\Cafe_Management_system\\GuestOrder.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DA57FF-CB18-410E-ACC9-76463C81DD2F}|Cafe_Management_system.csproj|solutionrelative:GuestOrder.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Userform.Designer.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\Userform.Designer.cs",
+              "RelativeDocumentMoniker": "Userform.Designer.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\Userform.Designer.cs",
+              "RelativeToolTip": "Userform.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:38:37.177Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Userform.cs [Design]",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\Userform.cs",
+              "RelativeDocumentMoniker": "Userform.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\Userform.cs [Design]",
+              "RelativeToolTip": "Userform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:38:41.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemForm.cs [Design]",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\ItemForm.cs",
+              "RelativeDocumentMoniker": "ItemForm.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\ItemForm.cs [Design]",
+              "RelativeToolTip": "ItemForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:27:31.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\UserOrder.cs",
+              "RelativeDocumentMoniker": "UserOrder.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\UserOrder.cs [Design]",
+              "RelativeToolTip": "UserOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:44:33.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\ViewOrder.cs",
+              "RelativeDocumentMoniker": "ViewOrder.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\ViewOrder.cs [Design]",
+              "RelativeToolTip": "ViewOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:14:05.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\GuestOrder.cs",
+              "RelativeDocumentMoniker": "GuestOrder.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\GuestOrder.cs [Design]",
+              "RelativeToolTip": "GuestOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:50:36.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:07:30.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:08:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewOrder.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\ViewOrder.cs",
+              "RelativeDocumentMoniker": "ViewOrder.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\ViewOrder.cs",
+              "RelativeToolTip": "ViewOrder.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:14:57.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestOrder.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\GuestOrder.cs",
+              "RelativeDocumentMoniker": "GuestOrder.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\GuestOrder.cs",
+              "RelativeToolTip": "GuestOrder.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAqwM8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:52:23.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserOrder.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\UserOrder.cs",
+              "RelativeDocumentMoniker": "UserOrder.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\UserOrder.cs",
+              "RelativeToolTip": "UserOrder.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwH8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:24:45.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:37:16.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Userform.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\Userform.cs",
+              "RelativeDocumentMoniker": "Userform.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\Userform.cs",
+              "RelativeToolTip": "Userform.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAArwEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:37:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GuestOrder.Designer.cs",
+              "DocumentMoniker": "D:\\Cafe_Management_system\\GuestOrder.Designer.cs",
+              "RelativeDocumentMoniker": "GuestOrder.Designer.cs",
+              "ToolTip": "D:\\Cafe_Management_system\\GuestOrder.Designer.cs",
+              "RelativeToolTip": "GuestOrder.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAcwJMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:36:16.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
