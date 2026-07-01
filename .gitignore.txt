@@ -1,0 +1,11 @@
+## Visual Studio Build Outputs
+bin/
+obj/
+*.exe
+*.pdb
+*.user
+
+## Visual Studio Cache/Settings
+.vs/
+*.suo
+*.userosscache
